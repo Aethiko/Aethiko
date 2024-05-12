@@ -1,4 +1,6 @@
-### Hi there 👋
+# About me
+
+新人，正在学习中😉
 
 <!--
 **Aethiko/Aethiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
